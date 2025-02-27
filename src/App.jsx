@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { Button } from "@/components/ui/button";
-import { Mail, Linkedin, BookOpen, Moon, Sun } from "lucide-react";
+import { Mail, Smile, BookOpen, Moon, Sun } from "lucide-react";
 
 export default function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -44,9 +44,11 @@ export default function App() {
                 <Github className="w-5 h-5 mr-2" /> GitHub
               </Button>
                */}
-              <Button variant="outline">
-                <Linkedin className="w-5 h-5 mr-2" /> LinkedIn
-              </Button>
+              <a href="https://huggingface.co/HuSusu" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline">
+                  <Smile className="w-5 h-5 mr-2" /> Hugging Face
+                </Button>
+              </a>
               <a href="https://scholar.google.com/citations?user=jrUCmgEAAAAJ&hl=en" target="_blank">
                 <Button variant="outline">
                   <BookOpen className="w-5 h-5 mr-2" /> Google Scholar
