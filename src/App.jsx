@@ -17,7 +17,7 @@ export default function App() {
       <div className="max-w-4xl w-full grid grid-cols-2 gap-8 items-start">
         <div className="flex flex-col items-center">
           <img
-            src="/linked_files/linkedin_photo.jpeg"
+            src="/su_page/linkedin_photo.jpeg"
             alt="Profile"
             className="w-48 h-48 rounded-full shadow-lg"
           />
@@ -28,7 +28,7 @@ export default function App() {
           <section className="mt-6 w-full">
             <p className="mt-2" style={{ fontFamily: 'font-mono, monospace' }}>
               I am a Doctoal student at <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology" className="text-orange-400 font-bold" target="_blank">National Center for Tumor Disease (NCT) Dresden</a>, specializing in geometry machine learning for surgical outcome prediction, including graph-based tissue analysis
-              and molecule profiling for cancer detection and subtyping. Here is my <a href="/linked_files/Susu_Hu_CV_2025.pdf" className="text-orange-400 font-bold" target="_blank">curriculum vitae</a>.
+              and molecule profiling for cancer detection and subtyping. Here is my <a href="/su_page/Susu_Hu_CV_2025.pdf" className="text-orange-400 font-bold" target="_blank">curriculum vitae</a>.
             </p>
           </section>
 
