@@ -4,7 +4,7 @@ import path from 'path'; // Add this import
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'su_page', // Replace with your repository name
+  base: 'intro', // Replace with your repository name
   plugins: [react()],
   resolve: {
     alias: {

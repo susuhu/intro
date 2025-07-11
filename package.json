@@ -1,9 +1,9 @@
 {
-  "name": "su_page",
+  "name": "intro",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://susuhu.github.io/su_page",
+  "homepage": "https://susuhu.github.io/intro",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
