@@ -27,7 +27,7 @@ export default function App() {
 
           <section className="mt-6 w-full">
             <p>
-              Hello! I am a doctoral researcher at the <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology" className="text-orange-400 font-bold" target="_blank">National Center for Tumor Disease (NCT)</a>, specializing in digital pathology.
+              Hello! I am a doctoral researcher at the <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology" className="text-orange-400 font-bold" target="_blank">National Center for Tumor Disease (NCT), Germany</a>, specializing in digital pathology.
               My work focuses on solving complex clinical problems by applying advanced machine learning methods, such as graph-based and generative modeling, for advanced tissue analysis and molecular profiling to advance precision oncology.
               You can view my full background in my <a href="/intro/Susu_Hu_CV_2026.pdf" className="text-orange-400 italic" target="_blank">curriculum vitae</a>.
             </p>
