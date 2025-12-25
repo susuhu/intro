@@ -26,10 +26,10 @@ export default function App() {
           <p className={`${darkMode ? 'text-gray-700' : 'text-gray-300'} text-sm mt-1 w-max italic`}>You can call me Su :)</p>
 
           <section className="mt-6 w-full">
-            <p className="mt-2 text-sm sm:text-base text-justify" style={{ fontFamily: 'font-mono, monospace' }}>
-              I am a doctoral student at <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology" className="text-orange-400 font-bold" target="_blank">National Center for Tumor Disease (NCT)</a>,
-              specializing in geometry machine learning for surgical outcome prediction. My research integrates graph-based tissue analysis and molecular profiling
-              to advance precision oncology. I obtained my M.Sc. in Computational Modeling and Simulation at <a href="https://tu-dresden.de/" className="text-orange-400 font-bold" target="_blank">Dresden University of Technology</a>. Here is my <a href="/intro/Susu_Hu_CV_2025.pdf" className="text-orange-400 italic" target="_blank">curriculum vitae</a>.
+            <p>
+              Hello! I am a doctoral researcher at the <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology" className="text-orange-400 font-bold" target="_blank">National Center for Tumor Disease (NCT)</a>, specializing in digital pathology.
+              My work focuses on solving complex clinical problems by applying advanced machine learning methods, such as graph-based and generative modeling, for advanced tissue analysis and molecular profiling to advance precision oncology.
+              You can view my full background in my <a href="/intro/Susu_Hu_CV_2026.pdf" className="text-orange-400 italic" target="_blank">curriculum vitae</a>.
             </p>
           </section>
 
